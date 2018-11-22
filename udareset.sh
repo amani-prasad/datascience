@@ -16,3 +16,7 @@ fi
 echo Resetted
 /usr/lpp/HP/ Discovery/bin/discagnt --newuniqueid
 echo Resetted
+
+--TEST 1234
+
+No Idea
